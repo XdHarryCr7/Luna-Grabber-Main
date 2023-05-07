@@ -1,0 +1,3 @@
+if it doesnt work or you get an error you need to download pyton 3.11+
+
+download it at here: https://www.python.org/downloads/
